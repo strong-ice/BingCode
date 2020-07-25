@@ -13,16 +13,17 @@ int main(void) {
 링크는 다음과 같이 작성할 수 있습니다.
 
 [강의 주소](https://www.youtube.com/watch?v=MFJIOqxK6k8)
+
 강의주소는 띄어쓰기 없이!!
 
 순서없는 목록은 다음과 같이 작성할 수 있습니다.
 
-*깃 튜토리얼
-  *깃 Clone
-  *깃 Pull
-  *깃 Commit
-    *깃 Commit 1)
-    *깃 Commit 2)
+* 깃 튜토리얼
+  * 깃 Clone
+  * 깃 Pull
+  * 깃 Commit
+    * 깃 Commit 1)
+    * 깃 Commit 2)
     
 인용구문은 당므과 같이 작성할 수 있습니다.
 
