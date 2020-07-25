@@ -3,4 +3,5 @@ Cheat Sheet LikeLion 8th Baby Lion 강빙화
 
 ## 1학기 커리큘럼
 ### Github&배포
-README.md 만드는법(Summary)[https://github.com/strong-ice/BingCode/commit/df6894018f3a14e3082f886e7726026d3564d6a1#diff-dd33deafd075e384dddfe9069c094f92]
+
+README.md 만드는법 [Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/1st_week_1/%EB%A6%AC%EB%93%9C%EB%AF%B8%EC%9E%91%EC%84%B1%EB%B2%95.md)
