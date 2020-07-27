@@ -11,3 +11,4 @@ Cheat Sheet LikeLion 8th Baby Lion 강빙화
 
 ### 마스크 알리미
 1. 강의 들어가기 [[Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/2st_week_1/%EA%B0%95%EC%9D%98%EB%93%A4%EC%96%B4%EA%B0%80%EA%B8%B0.md)]
+2. HTTP, JSON, API 
