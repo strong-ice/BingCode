@@ -11,3 +11,5 @@
 6. Deploy advanced
 7. 완성 ^_____^ (Published)
 8. 배포된 URL로 접속가능
+
+[빙화의 CheatSheet 구경하기!](https://nostalgic-varahamihira-0c60a3.netlify.app)
