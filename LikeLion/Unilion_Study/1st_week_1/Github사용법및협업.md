@@ -14,6 +14,7 @@
 * __git clone  http://원격저장소주소.git__: 원격 저장소에 있는 파일 전체 복사
 * __git status__: git 저장소의 상태를 확인
 ![ex.git명령어사용법](./Img/git명령어정리.PNG)
+
 EX) 제임스와 라이언이 각자의 Local 컴퓨터에서 각자의 Branch에 작업물을 올리고 Remote Repository에서 협업 진행
 
 
