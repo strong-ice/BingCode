@@ -20,7 +20,7 @@ __Repository 만드는 방법__
 5. Create Repository
 6. URL 복사하기
 
-__명령어__
+__TERMINAL 명령어__
 1. __$ git init__: Git을 시작하겠다
 2. __$ git remote add origin "Repository URL"__: 해당 Repository와 연결
 3. __$ git add__: git 파일에 Repository 모든 내용을 추가(Local 컴퓨터에)
