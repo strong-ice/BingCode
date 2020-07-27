@@ -10,4 +10,4 @@ Cheat Sheet LikeLion 8th Baby Lion 강빙화
 4. Git 사용법 및 협업 [[Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/1st_week_1/Github%EC%82%AC%EC%9A%A9%EB%B2%95%EB%B0%8F%ED%98%91%EC%97%85.md)]
 
 ### 마스크 알리미
-1. 강의 
+1. 강의 들어가기
