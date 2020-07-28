@@ -1,9 +1,9 @@
 ## HTTP, JSON, API
 ### HTTP
-__H__yper
-__T__ext
-__T__ransfer
-__P__rotocol
+**H**yper
+**T**ext
+**T**ransfer
+**P**rotocol
 * __Hyper Text__: 참조를 통해 한 문서에서 관련된 다른 문서들로 넘나들며 원하는 정보를 얻을 수 있게 해주는 텍스트
   * ex) 유튜브 - 추천 동영상
 * __Trasfer Protocol__: 인터넷을 통해서 정보(ex. Hyper Text)를 주고받을 때 지켜야하는 규칙
@@ -16,10 +16,10 @@ __HTTP의 요청 메소드__
 * __PATCH__: PUT과 다르게 일부만 수정
 * __DELETE__: URL에 표시된 특정 리소스를 삭제
 ### JSON
-__J__ava
-__S__cript
-__O__bject
-__N__otation
+**J**ava
+**S**cript
+**O**bject
+**N**otation
 * Key : Value 형식
   * 파이썬 딕셔너리와 비슷한 개념
 * 데이터 교환
@@ -33,6 +33,49 @@ __N__otation
  
 __실습__
 1. Chrome 접속 → F12 → Console 띄우기
-2. mdn json 검색 → [Working  with JSON(JSON으로 작업하기) 접속](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON)0 → [JSON 형식](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json)
+2. mdn json 검색 → [Working  with JSON(JSON으로 작업하기)](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON) 접속 → [JSON 형식](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json)
+```JSON
+{
+  "squadName" : "Super Hero Squad",
+  "homeTown" : "Metro City",
+  "formed" : 2016,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Molecule Man",
+      "age" : 29,
+      "secretIdentity" : "Dan Jukes",
+      "powers" : [
+        "Radiation resistance",
+        "Turning tiny",
+        "Radiation blast"
+      ]
+    },
+    {
+      "name" : "Madame Uppercut",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    },
+    {
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+    }
+  ]
+}
+```
 ### API
 ### REST API
