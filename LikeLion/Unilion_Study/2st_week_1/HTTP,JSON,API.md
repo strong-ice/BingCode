@@ -30,5 +30,9 @@ __N__otation
   * 많은 프로그래밍 언어가 지원한다 (ex. 한국어는 만국공통의 언어다)
   * 전송 시: 직렬화 과정을 거친다
   * 수신 시: 역직렬화 과정을 거친다
+ 
+__실습__
+1. Chrome 접속 → F12 → Console 띄우기
+2. mdn json 검색 → [Working  with JSON(JSON으로 작업하기) 접속](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON)0 → [JSON 형식](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json)
 ### API
 ### REST API
