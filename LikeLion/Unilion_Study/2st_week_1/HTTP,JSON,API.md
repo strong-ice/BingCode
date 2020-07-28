@@ -1,5 +1,5 @@
 ## HTTP, JSON, API
-### HTTP
+### HTTP (인터넷)
 **H**yper
 **T**ext
 **T**ransfer
@@ -15,7 +15,7 @@ __HTTP의 요청 메소드__
 * __PUT__: URL에 표시된 리소스와 바꿔 치기
 * __PATCH__: PUT과 다르게 일부만 수정
 * __DELETE__: URL에 표시된 특정 리소스를 삭제
-### JSON
+### JSON (약속)
 **J**ava
 **S**cript
 **O**bject
@@ -99,7 +99,7 @@ JSON.stringify(super_hero);
 ```
 
 
-### API
+### API (방법)
 **A**pplication
 **P**rogramming
 **I**nterface
