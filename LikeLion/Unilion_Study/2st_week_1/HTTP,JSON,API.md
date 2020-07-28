@@ -128,3 +128,10 @@ REST: 하나의 아키텍쳐
   * GET, PATCH, POST, PUT, DELETE...
 * 표현: 데이터를 표현하는 방식
   * JSON 형식
+  
+#### 승규멘토님의 특강
+**CRUD**
+* 정말 많이 쓰는 언어!!!!(꼭 알아둘 것!!)
+* GET = READ
+> asd
+
