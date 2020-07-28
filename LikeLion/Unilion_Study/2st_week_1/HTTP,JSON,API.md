@@ -94,6 +94,37 @@ super_hero.members[0].name
 ```JSON
 JSON.stringify(super_hero);
 ```
+역직렬화하기
+```JSON
+```
+
 
 ### API
+**A**pplication
+**P**rogramming
+**I**nterface
+* Application: 우리가 사용하는 다양한 서비스들
+* Programming Interface: 서비스들이 제공해주는 데이터들에 접근하고 사용할 수 있도록 도와주는 도구!
+ * ex) TV의 리모컨 같은 존재!
+__종류__
+* SOAP: Simple Object Access Protocol
+* REST: Representational State Transfer
+* GraphQL: Graph Query Language
+(어려워용~)
+
 ### REST API
+**R**
+**E**presentational
+**S**tate
+**T**ransfer
+
+REST: 하나의 아키텍쳐
+* 소프트웨어 아키텍처: 소프트웨어를 설계하는 지침과 원칙
+ * 물론 꼭 전부 다 지켜야하는 법이 아니기 때문에 완전히 Restful한 API는 많지 않다.
+
+**REST의 구성요소**
+* 자원: URL에 매칭되어있는 리소스들(데이터들)
+* 행위: HTTP 요청 매소드
+  * GET, PATCH, POST, PUT, DELETE...
+* 표현: 데이터를 표현하는 방식
+  * JSON 형식
