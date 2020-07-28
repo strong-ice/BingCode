@@ -33,9 +33,9 @@ __HTTP의 요청 메소드__
  
 __실습__
 1. Chrome 접속 → F12 → Console 띄우기
-2. mdn json 검색 → [Working  with JSON(JSON으로 작업하기)](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON) 접속 → [JSON 형식](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json)
+2. mdn json 검색 → [Working  with JSON(JSON으로 작업하기)](https://developer.mozilla.org/ko/docs/Learn/JavaScript/Objects/JSON) 접속 → [JSON 텍스트 형식](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json) 복사
 ```JSON
-{
+let super_hero = {
   "squadName" : "Super Hero Squad",
   "homeTown" : "Metro City",
   "formed" : 2016,
@@ -77,5 +77,23 @@ __실습__
   ]
 }
 ```
+```JSON
+super_hero
+```
+```JSON
+super_hero.members
+```
+```JSON
+super_hero["members"]
+```
+첫 번째 멤버의 이름을 가져오기
+```JSON
+super_hero.members[0].name
+```
+직렬화하기
+```JSON
+JSON.stringify(super_hero);
+```
+
 ### API
 ### REST API
