@@ -13,8 +13,8 @@
 * **객체 기반**의 스크립트 언어
 * 할 수 있는 일이 굉장히 많다.
   * **Browser API** - DOM, 위치정보, audio, 화면공유 등 Browser 에서 제공하는 API들
-  * 2D, 3D 그래픽 작업 (ex. NullSchool: 3D 지구본 - 오로지 JavaScript로 만들어짐)
-  * 클라이언트 뿐만 아니라 서버도 자바스크립트로 가능 - Node.js
+  * **2D, 3D 그래픽 작업** (ex. NullSchool: 3D 지구본 - 오로지 JavaScript로 만들어짐)
+  * 클라이언트 뿐만 아니라 **서버**도 자바스크립트로 가능 - Node.js
   
  * 스크립트 언어 + 인터프리터 방식 (파이썬과 동일)
   * 입력 후 바로 결과 확인이 가능
@@ -22,6 +22,17 @@
  * 사용법 1: HTML 내부에서 <script> 태그내에 사용
  * 사용법 2: .js 파일로 만들고, <script src="파일경로">를 사용해서 불러오기
  
+ #### JavaScript 사용법
+ ```javascript
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+ 
+ </head>
+ <body>
+ </body>
+ </html>
+ ```
  
  
 ### 변수
