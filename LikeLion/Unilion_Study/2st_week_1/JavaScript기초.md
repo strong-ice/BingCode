@@ -1,4 +1,12 @@
 ## JavaScript 기초문법
+### 주의사항 및 자습 안내
+속도가 빠르고 구체적인 개념을 알려주지 않기 때문에 추가적인 학습이 필요하다!!
+**학습을 도와주는 참고사이트**
+* [W3C School](https://www.w3schools.com)
+* [MDN Document](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+* [생활코딩 WEB2 - Javascript](http://opentutorials.org/course/3085)
+* [ofcourse](https://ofcourse.kr/)
+
 ### JavaScript
 * 웹페이지를 동적으로 만들 때 사용하는 언어
 * 객체 기반의 스크립트 언어
