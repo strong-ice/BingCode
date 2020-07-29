@@ -23,15 +23,18 @@
  * 사용법 2: .js 파일로 만들고, <script src="파일경로">를 사용해서 불러오기
  
  #### JavaScript 사용법
+ html:5를 통해 생성한 HTML 문서
  ```javascript
- <!DOCTYPE html>
- <html lang="en">
- <head>
- 
- </head>
- <body>
- </body>
- </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Document</title>
+</head>
+<body>
+</body>
+</html>
  ```
  
  
