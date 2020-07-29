@@ -1,6 +1,7 @@
 ## JavaScript 기초문법
 ### 주의사항 및 자습 안내
 속도가 빠르고 구체적인 개념을 알려주지 않기 때문에 추가적인 학습이 필요하다!!
+
 **학습을 도와주는 참고사이트**
 * [W3C School](https://www.w3schools.com)
 * [MDN Document](https://developer.mozilla.org/ko/docs/Web/JavaScript)
