@@ -23,7 +23,7 @@
  * 사용법 2: .js 파일로 만들고, <script src="파일경로">를 사용해서 불러오기
  
  #### JavaScript 사용법
- html:5를 통해 생성한 HTML 문서
+1. html:5를 통해 생성한 HTML 문서 불러오기
  ```javascript
 <!DOCTYPE html>
 <html lang="en">
@@ -36,7 +36,29 @@
 </body>
 </html>
  ```
- 
+2. 간단한 Script 문서안 삽입
+ ```javascript
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <!-- 1. Script 태그 안에 작성하기 -->
+  <script>
+    console.log("Hello world");
+    alert("Hello world\nScript 태그 안에 작성됐습니다!");
+  </script>
+  
+  
+  <!-- 2. JS 파일을 외부에서 불러오기 -->
+  <script src="1-2 JS불러오기.js"></script>
+</body>
+</html>
+ ```
+
  
 ### 변수
 ### 반복문
