@@ -66,6 +66,30 @@ setTimeout(function(){
 ```
 
 ### 변수
+* 사용가능한 데이터 타입: Boolean, Null, Undefined, Number, String, Symbol, Object
+* var: 권장하지 않는 변수 선언 방식
+ * Hosting
+ * Function scope 변수 (타 언어와 다른 점)
+ * 중복 선언 가능
+ * 예측하기 어려운 코드를 만들 수 있다
+* let: block scope 변수 (타 언어와 비슷하게 동작)
+* const: 변하지 않는 데이터를 저장 (ex. 파이, 객체)
+
+**변수를 이용한 실습**
+1. Chrome → F12 → Console
+```js
+let booleanVal = true
+let numberVal = 0
+let nullVal = null
+let undefinedVal = undefined
+let stringVal = ''
+let person = {
+  name : "빙빙이",
+  phoneNumber : "010-0000-0000",
+  email : "bing@bing.com"
+  }
+```
+
 ### 반복문
 ### 조건문
 ### DOM 다루기
