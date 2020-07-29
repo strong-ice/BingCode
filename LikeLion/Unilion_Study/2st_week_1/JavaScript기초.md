@@ -24,7 +24,7 @@
  
  #### JavaScript 사용법
 1. html:5를 통해 생성한 HTML 문서 불러오기
- ```javascript
+ ```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +37,7 @@
 </html>
  ```
 2. 간단한 Script 문서안 삽입
- ```javascript
+ ```HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,8 +58,13 @@
 </body>
 </html>
  ```
+3. 외부에서 불러올 JavaScript 파일
+```js
+setTimeout(function(){
+  alret("2초 뒤에 실행됩니다. \n외부에 쓰여진 JS파일에서 호출됐습니다.")
+}, 2000);
+```
 
- 
 ### 변수
 ### 반복문
 ### 조건문
