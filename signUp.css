@@ -1,0 +1,48 @@
+* {margin: 0; padding: 0;}
+
+.container {
+    width: 300px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+}
+
+.h1 {
+    display: black;
+    background: #d2691e;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    height: 45px;
+    line-height: 40px;
+}
+
+.labal {
+    font-size: 13px;
+    text-align: 10px 0;
+    padding: 0 10px;
+    color: #999;
+}
+
+.form {
+    padding: 0 10px;
+}
+
+.form input {
+    width: 100%;
+    height: 35px;
+    padding: 0 15px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+#signUp {
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+    height: 45px;
+    background: #008B8B;
+    color: white;
+    border: none;
+    cursor: pointer
+}
