@@ -1,3 +1,4 @@
+
 let doc = document;
 
 // 정보를 취합하고 확인
@@ -8,17 +9,17 @@ let func = function() {
     let userPass = doc.getElementById('userPass');
     let userConfirm = doc.getElementById('userConfirm');
 
-    // 2. 취합 확인(확인 후 삭제)
-    // console.log(userEmail.value);
-    // console.log(userPass.value);
-    // console.log(userConfirm.value);
+
+        // console.log(userEmail.value);
+        // console.log(userPass.value);
+        // console.log(userConfirm.value);
 
     // 빈 칸 없이 입력되게 만들기
-    // if(!변수이름){}: 입력되지 않았을 때 실행할 행동
-    // focus(): 커서가 해당 칸으로 가도록 한다. UX를 올려줌
-    // return: 실행되기 전 상태로 돌아가는 것! 실행된 if문 위로 올라간다.
+        // if(!변수이름){}: 입력되지 않았을 때 실행할 행동
+        // focus(): 커서가 해당 칸으로 가도록 한다. UX를 올려줌
+        // return: 실행되기 전 상태로 돌아가는 것! 실행된 if문 위로 올라간다.
     if (!userEmail.value) {
-        alert('아이디를 입력하세요.');
+        alert('이메일을 입력하세요.');
         userEmail.focus();
         return;
     }
@@ -51,3 +52,6 @@ let func = function() {
 
 // 회원가입 변수 저장
 let sign = doc.getElementById('signUp');
+
+// 회원가입 버튼 누르면 함수 작동
+sign.addEventListener('click',func);

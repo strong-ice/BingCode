@@ -20,5 +20,5 @@ Cheat Sheet LikeLion 8th Baby Lion 강빙화
 8. 시작화면 UI 및 기능 구현 [[Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/2st_week/%EC%8B%9C%EC%9E%91%ED%99%94%EB%A9%B4UI%EB%B0%8F%EA%B8%B0%EB%8A%A5%EA%B5%AC%ED%98%84.md)]
 
 ### 드리머리
-1. Django, 그게 뭐야? [[Summary]](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/3st_week/Django%2C%EA%B7%B8%EA%B2%8C%EB%AD%90%EC%95%BC.md)]
-2. Hello, Django [[Summary]](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/3st_week/HelloDjango.md)]
+1. Django, 그게 뭐야? [[Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/3st_week/Django%2C%EA%B7%B8%EA%B2%8C%EB%AD%90%EC%95%BC.md)]
+2. Hello, Django [[Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/3st_week/HelloDjango.md)]
