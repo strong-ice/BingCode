@@ -1,8 +1,8 @@
 
 let doc = document;
 
-// 정보를 취합하고 확인
 // value: 칸에 적힌 내용
+// 잘못된 내용 입력 시 오류!
 let func = function() {
     // 1. 정보 취합
     let userEmail = doc.getElementById('userEmail');
