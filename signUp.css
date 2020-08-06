@@ -44,5 +44,10 @@
     background: #008B8B;
     color: white;
     border: none;
-    cursor: pointer
+    cursor: pointer;
+}
+
+p {
+    font-size: 10px;
+    color: #999;
 }

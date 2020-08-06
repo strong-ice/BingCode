@@ -9,25 +9,27 @@
   * 이행
   * 거부
 2. **비동기 호출 - keyword**
-* 두 가지 패턴이 존재
+* 두 가지 패턴이 존재 
 * async, await 키워드를 활용한
   * `async function astncFunnction(){
             await [promise객체]
   }`
-  * [Promise객체]
-    * .then(콜백함수)
-    * .catch(콜백함수)
+* [Promise객체]
+  * .then(콜백함수)
+  * .catch(콜백함수)
+
 ### fetch API
 * 네트워크 통신을 위해서 제공되는 API
 * Promise 객체를 반환
 * Request, Response라는 두 개의 객체 사용
+
 ### 실습
 1. 비동기 처리
 ```javascript
 // Promise의 세 가지 상태
-// 1. Pending (대기)
-// 2. Resolved (이행)
-// 3. Rejected (거부)
+// 1. Pending (대기): 초기 상태
+// 2. Resolved (이행): 성공
+// 3. Rejected (거부): 실패
 
 function promiseTest1(timer) {
     // Promise 객체를 new 키워드를 통해 만들어줍니다.
@@ -60,7 +62,7 @@ funtion promiseTest2(timer) {
     })
 
     promiseObj
-        .then((value) => console.log(value))
-        .catch((error) => console.log(error));
+        .then((value) => console.log(value))    // 성공
+        .catch((error) => console.log(error));  // 실패
 }
 ```
