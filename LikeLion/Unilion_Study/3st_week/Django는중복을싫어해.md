@@ -12,14 +12,14 @@
 
   * App 폴더 내에 urls.py 생성 후,
 
-    ``````python
+    ```python
     from django.urls import path
     from .import views
     
     Urlpatterns = [
     	path()
         ]
-    ``````
+    ```
 
 * **Project/urls.py**
 
