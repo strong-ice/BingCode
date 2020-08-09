@@ -195,7 +195,7 @@
 
    ``````html
    <div id="navbar" class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-   	<a id="logo" herf="{% url 'home'}" class="navbar-brand align-self-center">
+   	<a id="logo" herf="{% url 'home' %}" class="navbar-brand align-self-center">
    		<img src="{% static 'images/Dreamary_Logo.png' %}" width="35" height="35" alt="Dreamary_Logo.png">
        	<labal class="navbar-brand align-self-center">Dreamary</labal>
    	</a>  
