@@ -22,3 +22,20 @@ Cheat Sheet LikeLion 8th Baby Lion 강빙화
 ### 드리머리
 1. Django, 그게 뭐야? [[Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/3st_week/Django%2C%EA%B7%B8%EA%B2%8C%EB%AD%90%EC%95%BC.md)]
 2. Hello, Django [[Summary](https://github.com/strong-ice/BingCode/blob/master/LikeLion/Unilion_Study/3st_week/HelloDjango.md)]
+3. Django가 관리하는 법 [[Summary]()]
+4. Django로 나를 소개해볼게 #1 [[Summary]()]
+5. Django로 나를 소개해볼게 #2 [[Summary]()]
+6. Django는 중복을 싫어해 [[Summary]()]
+7. CRUD #1 [[Summary]()]
+8. CRUD #2 [[Summary]()]
+
+### 자소설닷컴
+1. 자소설 닷컴 만들기 [[Summary]()]
+2. 모델과 데이터베이스 [[Summary]()]
+3. ModelForm [[Summary]()]
+4. Primary key [[Summary]()]
+5. User #1 [[Summary]()]
+6. User #2 [[Summary]()]
+7. ForeignKey [[Summary]()]
+8. 댓글 만들기 [[Summary]()]
+9. 글자수 세기 [[Summary]()]
