@@ -24,7 +24,7 @@
 * **Project/urls.py**
 
 	``` python
-	    from django.urels import path include
+	    from django.urls import path include
 	
 	    urlpatterns = [
 	    path('url/', include('app이름.urls'))
@@ -50,7 +50,7 @@
    * 변할 수 있는 코드들은 템플릿 태그 사용
 
    ``````html
-   <doctype html>
+   <!doctype html>
    <head>
    	<link href="{% blockLink %}
             <!-- 다른 page.html의 코드 -->
