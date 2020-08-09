@@ -23,12 +23,12 @@
 
 * **Project/urls.py**
 
-	  ```python
-	from django.urels import path include
+	``` python
+	    from django.urels import path include
 	
-	urlpatterns = [
+	    urlpatterns = [
 	    path('url/', include('app이름.urls'))
-	]
+	    ]
 	```
 
 ​      
