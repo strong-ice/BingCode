@@ -15,11 +15,7 @@
                 <!-- 이메일 입력 -->
                 <div class="label">이메일</div>
                 <div class="form">
-                    <input
-                        type="text"
-                        id="userEmail"
-                        placeholder="이메일을 입력해주세요."
-                        required
+                    <input type="text" id="userEmail" placeholder="이메일" required
                     />
                 </div>
 
@@ -27,37 +23,28 @@
                 <div class="label">인증번호</div>
                 <div class="form">
                     <input
-                        type="text"
-                        id="CertificationNum"
-                        placeholder="인증번호를 입력해주세요."
-                        required
+                        type="text" id="cerNum" placeholder="인증번호" required
                     />
                 </div>
 
+                <!-- 인증번호 받기 버튼 -->
+                <button id="cerNumBtn">인증번호 받기</button>
+
                 <!-- 비밀번호 입력 -->
                 <div class="label">비밀번호</div>
-                <p>4자~8자 사이로 입력해주세요.</p>
                 <div class="form">
                     <input
-                        type="password"
-                        id="userPass"
-                        placeholder="비밀번호를 입력해주세요."
-                        minlength="4"
-                        maxlength="8"
-                        required
+                        type="password" id="userPass" placeholder="비밀번호" minlength="4" maxlength="12" required
                     />
                 </div>
+                <p>숫자, 영문을 섞어주세요</p>
+                <p>4자~12자 사이로 입력해주세요.</p>
 
                 <!-- 비밀번호 확인 -->
                 <div class="label">비밀번호 확인</div>
                 <div class="form">
                     <input
-                        type="password"
-                        id="userConfirm"
-                        placeholder="비밀번호를 입력해주세요."
-                        minlength="4"
-                        maxlength="8"
-                        required
+                        type="password" id="userConfirm" placeholder="비밀번호 확인" minlength="4" maxlength="12" required
                     />
                 </div>
 

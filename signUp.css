@@ -1,11 +1,11 @@
 * {margin: 0; padding: 0;}
 
 .container {
-    width: 300px;
+    width: 400px;
     margin: 50px auto;
     border: 1px solid #ccc;
 }
-
+ 
 .h1 {
     display: black;
     background: #d2691e;
@@ -20,6 +20,7 @@
     font-size: 13px;
     text-align: 10px 0;
     padding: 0 10px;
+    margin-left: 10px;
     color: #999;
 }
 
@@ -45,7 +46,7 @@
     color: white;
     border: none;
     cursor: pointer;
-}
+} 
 
 p {
     font-size: 10px;
