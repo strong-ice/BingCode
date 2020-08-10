@@ -38,7 +38,7 @@
 
 * **객체 탐색**
 
-  ``````
+  ``````python
   post=get_object_or_404(Designer, pk = designer_id)
   
   if requset.mothod == 'POST':
@@ -46,14 +46,14 @@
 
 * **입력 Data 저장**
 
-  ``````
+  ``````python
   post.name = request.POST['name']
   post.address = request.POST['address']…
   ``````
 
 * **입력 Data(POST 객체) 저장**
 
-  ``````
+  ``````python
   post.save()
   ``````
 
@@ -65,23 +65,23 @@
 
 * **객체 탐색**
 
-  ``````
+  ``````python
   post = get_object_or_404(Designer, pk = designer_id)
   ``````
 
 * **객체 삭제**
 
-  ``````
+  ``````python
   post.delete()
   ``````
 
 * **Home으로 이동**
 
-  ``````
+  ``````python
   reyurn redirect('home')
   ``````
 
-    
+  ​            
 
 ### :construction_worker: 실습
 
@@ -147,9 +147,9 @@
          return redirect('home')
      ``````
 
-     
+     ​    
 
-
+​           
 
 ## :fire: GET / POST 이해
 
